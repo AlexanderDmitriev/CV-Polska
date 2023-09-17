@@ -56,13 +56,11 @@ ul {
   transition-duration: var(--timing);
   transition-timing-function: var(--cubik);
 }
-
 @media print {
   .link {
     font-size: 11px;
   }
 }
-
 @media screen and (min-width: 480px) {
   .link {
     font-weight: 700;
@@ -72,7 +70,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 768px) {
   .link {
     font-weight: 700;
@@ -82,7 +79,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .link {
     font-weight: 700;
@@ -92,7 +88,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 .link:hover, .link:focus {
   color: var(--primary-text-color);
   fill: var(--primary-text-color);
@@ -115,19 +110,16 @@ ul {
   width: 100%;
   margin: 0 auto;
 }
-
 @media screen and (min-width: 480px) {
   .container {
     width: 480px;
   }
 }
-
 @media screen and (min-width: 768px) {
   .container {
     width: 768px;
   }
 }
-
 @media screen and (min-width: 1200px) {
   .container {
     width: 1200px;
@@ -147,7 +139,6 @@ ul {
   color: var(--light-text-color);
   margin-bottom: 5px;
 }
-
 @media screen and (min-width: 768px) {
   .header-section__name {
     font-weight: 700;
@@ -157,7 +148,6 @@ ul {
     color: var(--light-text-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .header-section__name {
     font-weight: 700;
@@ -176,7 +166,6 @@ ul {
   color: var(--light-text-color);
   margin-bottom: 5px;
 }
-
 @media screen and (min-width: 768px) {
   .header-section__position {
     font-weight: 700;
@@ -186,7 +175,6 @@ ul {
     color: var(--light-text-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .header-section__position {
     font-weight: 700;
@@ -204,13 +192,11 @@ ul {
   font-style: normal;
   color: var(--light-text-color);
 }
-
 @media print {
   .header-section__resume-text {
     font-size: 11px;
   }
 }
-
 @media screen and (min-width: 768px) {
   .header-section__resume-text {
     font-weight: 700;
@@ -220,7 +206,6 @@ ul {
     color: var(--light-text-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .header-section__resume-text {
     font-weight: 700;
@@ -246,21 +231,18 @@ ul {
     padding-left: 22px;
   }
 }
-
 @media screen and (min-width: 480px) {
   .sidebar__content-section {
     padding-top: 10px;
     padding-left: 5px;
   }
 }
-
 @media screen and (min-width: 768px) {
   .sidebar__content-section {
     padding-top: 15px;
     padding-left: 20px;
   }
 }
-
 @media screen and (min-width: 1200px) {
   .sidebar__content-section {
     padding-top: 30px;
@@ -277,13 +259,11 @@ ul {
   font-style: normal;
   color: var(--dark-text-color);
 }
-
 @media print {
   .sidebar-title {
     font-size: 14px;
   }
 }
-
 @media screen and (min-width: 480px) {
   .sidebar-title {
     font-weight: 700;
@@ -293,7 +273,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 768px) {
   .sidebar-title {
     font-weight: 700;
@@ -303,7 +282,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .sidebar-title {
     font-weight: 700;
@@ -322,13 +300,11 @@ ul {
   font-style: normal;
   color: var(--dark-text-color);
 }
-
 @media print {
   .sidebar-content {
     font-size: 11px;
   }
 }
-
 @media screen and (min-width: 480px) {
   .sidebar-content {
     font-weight: 700;
@@ -338,7 +314,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 768px) {
   .sidebar-content {
     font-weight: 700;
@@ -348,7 +323,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .sidebar-content {
     font-weight: 700;
@@ -366,26 +340,22 @@ ul {
 .photo {
   width: 85px;
 }
-
 @media print {
   .photo {
     width: 220px;
     margin-left: -10px;
   }
 }
-
 @media screen and (min-width: 480px) {
   .photo {
     width: 120px;
   }
 }
-
 @media screen and (min-width: 768px) {
   .photo {
     width: 200px;
   }
 }
-
 @media screen and (min-width: 1200px) {
   .photo {
     width: 320px;
@@ -406,13 +376,11 @@ ul {
   font-style: normal;
   color: var(--dark-text-color);
 }
-
 @media print {
   .content-title__secondary {
     font-size: 14px;
   }
 }
-
 @media screen and (min-width: 480px) {
   .content-title__secondary {
     font-weight: 700;
@@ -422,7 +390,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 768px) {
   .content-title__secondary {
     font-weight: 700;
@@ -432,7 +399,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .content-title__secondary {
     font-weight: 700;
@@ -454,13 +420,11 @@ ul {
   font-style: normal;
   color: var(--dark-text-color);
 }
-
 @media print {
   .workList {
     font-size: 11px;
   }
 }
-
 @media screen and (min-width: 480px) {
   .workList {
     font-weight: 700;
@@ -470,7 +434,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 768px) {
   .workList {
     font-weight: 700;
@@ -480,7 +443,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .workList {
     font-weight: 700;
@@ -498,13 +460,11 @@ ul {
   font-style: normal;
   color: var(--dark-text-color);
 }
-
 @media print {
   .content-text {
     font-size: 11px;
   }
 }
-
 @media screen and (min-width: 480px) {
   .content-text {
     font-weight: 700;
@@ -514,7 +474,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 768px) {
   .content-text {
     font-weight: 700;
@@ -524,7 +483,6 @@ ul {
     color: var(--dark-text-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .content-text {
     font-weight: 700;
@@ -553,13 +511,11 @@ ul {
   font-style: normal;
   color: var(--second-color);
 }
-
 @media print {
   .project-link {
     font-size: 14px;
   }
 }
-
 @media screen and (min-width: 480px) {
   .project-link {
     font-weight: 700;
@@ -569,7 +525,6 @@ ul {
     color: var(--second-color);
   }
 }
-
 @media screen and (min-width: 768px) {
   .project-link {
     font-weight: 700;
@@ -579,7 +534,6 @@ ul {
     color: var(--second-color);
   }
 }
-
 @media screen and (min-width: 1200px) {
   .project-link {
     font-weight: 700;
@@ -597,5 +551,4 @@ ul {
 .education-title {
   padding-top: 0;
   padding-bottom: 5px;
-}
-/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
